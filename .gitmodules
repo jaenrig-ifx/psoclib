@@ -1,0 +1,18 @@
+[submodule "cat1cm0p"]
+	path = cat1cm0p
+	url = https://github.com/Infineon/cat1cm0p
+[submodule "cmsis"]
+	path = cmsis
+	url = https://github.com/Infineon/cmsis
+[submodule "core-lib"]
+	path = core-lib
+	url = https://github.com/Infineon/core-lib
+[submodule "mtb-hal-cat1"]
+	path = mtb-hal-cat1
+	url = https://github.com/Infineon/mtb-hal-cat1
+[submodule "mtb-pdl-cat1"]
+	path = mtb-pdl-cat1
+	url = https://github.com/Infineon/mtb-pdl-cat1
+[submodule "bsps/TARGET_CY8CPROTO-062-4343W"]
+	path = bsps/TARGET_CY8CPROTO-062-4343W
+	url = https://github.com/Infineon/TARGET_CY8CPROTO-062-4343W
