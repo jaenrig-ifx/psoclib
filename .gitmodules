@@ -16,3 +16,6 @@
 [submodule "bsps/TARGET_CY8CPROTO-062-4343W"]
 	path = bsps/TARGET_CY8CPROTO-062-4343W
 	url = https://github.com/Infineon/TARGET_CY8CPROTO-062-4343W
+[submodule "retarget-io"]
+	path = retarget-io
+	url = https://github.com/infineon/retarget-io
